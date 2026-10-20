@@ -56,15 +56,14 @@ These views help users compare performance across different business dimensions.
 - Which products have different win-rate patterns?
 - Which customer sectors contribute to revenue?
 
+
 ## 🖼️ Dashboard Preview
 
-**CRM Overview**
+### 1. CRM Overview
+![CRM Overview Dashboard](page1-overview.png)
 
-![CRM Overview Dashboard](screenshots/page1-overview.png)
-
-**Team & Product Performance**
-
-![Team and Product Performance Dashboard](screenshots/page2-team-product.png)
+### 2. Team & Product Performance
+![Team and Product Performance Dashboard](page2-team-product.png)
 
 ## 🔍 Key Observations
 
