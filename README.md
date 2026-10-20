@@ -98,6 +98,3 @@ Ahmedabad, Gujarat, India
 - GitHub: https://github.com/awan-mansuri
 - LinkedIn: https://www.linkedin.com/in/awan-mansuri
 
----
-
-*This project is part of my portfolio for developing practical skills in data analytics, business intelligence, and data-driven decision-making.*
