@@ -56,8 +56,6 @@ An interactive Power BI dashboard for exploring CRM sales performance, monitorin
 - Q2 has the highest revenue in the displayed quarterly trend.
 - The second page supports comparisons across managers, products, sectors, and agents.
 
-These are observations from the displayed report, not independently validated business conclusions.
-
 ## 📁 Project Files
 
 | File | Description |
