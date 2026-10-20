@@ -60,11 +60,11 @@ These views help users compare performance across different business dimensions.
 
 **CRM Overview**
 
-![CRM Overview Dashboard](screenshots/page1-sales-overview.png)
+![CRM Overview Dashboard](screenshots/page1-overview.png)
 
 **Team & Product Performance**
 
-![Team and Product Performance Dashboard](screenshots/page2-team-performance.png)
+![Team and Product Performance Dashboard](screenshots/page2-team-product.png)
 
 ## 🔍 Key Observations
 
