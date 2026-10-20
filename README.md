@@ -1,24 +1,25 @@
 
 # 📊 MavenTech CRM Sales Performance Dashboard
 
-An interactive Power BI dashboard designed to analyze CRM sales performance, monitor key performance indicators, and compare team and product performance.
+An interactive Power BI dashboard for analyzing CRM sales performance, monitoring key performance indicators (KPIs), and comparing team and product performance.
 
 ## 🎯 Project Objectives
 
-- Monitor revenue and sales performance.
-- Track the overall win rate and average deal size.
+- Monitor overall sales performance.
+- Track revenue, win rate, average deal size, and sales-cycle duration.
 - Analyze quarterly revenue trends.
-- Understand deal-stage distribution.
+- Explore deal-stage distribution.
 - Compare manager, agent, product, and sector performance.
 - Support data-driven sales decisions.
 
 ## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
-- DAX — where used for measures
-- Power Query — where used for data preparation
+- DAX, where used for measures
+- Power Query, where used for data preparation
 - Data Visualization
-- Business Intelligence and KPI Reporting
+- Business Intelligence
+- KPI Reporting
 
 ## 📈 Key Performance Indicators
 
@@ -29,19 +30,19 @@ An interactive Power BI dashboard designed to analyze CRM sales performance, mon
 | Average Deal Size | 2,361 |
 | Average Cycle Days | 48 |
 
-*Values are taken from the dashboard display and have not been independently audited.*
+*These values are transcribed from the dashboard display and have not been independently audited.*
 
 ## 🖼️ Dashboard Preview
 
 ### 1. CRM Overview
 
-This page presents the primary sales KPIs, quarterly revenue trends, and deal-stage funnel.
+The overview page presents the main sales KPIs, quarterly revenue trends, and deal-stage funnel.
 
 ![CRM Overview Dashboard](page1-overview.png)
 
 ### 2. Team & Product Performance
 
-This page compares performance by manager, product, customer sector, and agent.
+The second page compares manager performance, product win rates, sector revenue, and agent rankings.
 
 ![Team and Product Performance Dashboard](page2-team-product.png)
 
@@ -50,17 +51,17 @@ This page compares performance by manager, product, customer sector, and agent.
 - How does revenue change across quarters?
 - What is the overall sales win rate?
 - What are the average deal size and sales-cycle duration?
-- How does performance vary between managers and agents?
+- How does performance vary across managers and agents?
 - How do win rates differ by product?
 - Which customer sectors contribute to revenue?
 
 ## 💡 Key Observations
 
 - The dashboard displays total revenue of ₹1,00,05,534 and a win rate of 63%.
-- Q2 shows the highest quarterly revenue in the displayed trend.
-- The team and product page enables comparisons across several sales dimensions.
+- Q2 has the highest quarterly revenue in the displayed trend.
+- The second dashboard page supports comparisons across managers, products, sectors, and agents.
 
-These observations describe the displayed dashboard and should not be treated as independently validated business conclusions.
+These observations describe the displayed dashboard and are not independently validated business conclusions.
 
 ## 🧠 Skills Demonstrated
 
@@ -77,7 +78,7 @@ These observations describe the displayed dashboard and should not be treated as
 |---|---|
 | `MavenTech-CRM.pbix` | Power BI report file |
 | `page1-overview.png` | CRM overview screenshot |
-| `page2-team-product.png` | Team and product screenshot |
+| `page2-team-product.png` | Team and product performance screenshot |
 
 ## ⚠️ Dataset Availability
 
